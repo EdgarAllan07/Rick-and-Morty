@@ -1,7 +1,7 @@
 {
   "name": "react-rick-and-morty",
   "version": "0.1.0",
-  "home":"http://RoshPlay.github.io/Rick-and-Morty",
+  "homepage":"http://RoshPlay.github.io/Rick-and-Morty",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
