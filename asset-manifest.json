@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.da3089f3.css",
-    "main.js": "/static/js/main.c4003910.js",
-    "index.html": "/index.html",
-    "main.da3089f3.css.map": "/static/css/main.da3089f3.css.map",
-    "main.c4003910.js.map": "/static/js/main.c4003910.js.map"
+    "main.css": "/Rick-and-Morty/static/css/main.da3089f3.css",
+    "main.js": "/Rick-and-Morty/static/js/main.c4003910.js",
+    "index.html": "/Rick-and-Morty/index.html",
+    "main.da3089f3.css.map": "/Rick-and-Morty/static/css/main.da3089f3.css.map",
+    "main.c4003910.js.map": "/Rick-and-Morty/static/js/main.c4003910.js.map"
   },
   "entrypoints": [
     "static/css/main.da3089f3.css",
